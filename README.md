@@ -10,7 +10,7 @@ A simple Node.js + Express application demonstrating a custom rate limiter middl
 
 ## Rate Limiting Rules
 - Window Size: 1 minute
-- Max Requests: 5 requests per IP
+- Max Requests: 5 requests per IP (Now in my code if i want i can change)
 
 ## Run Project
 ```bash
